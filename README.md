@@ -1,0 +1,2 @@
+# django_react_project
+django_react_project
